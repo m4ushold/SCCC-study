@@ -2,7 +2,7 @@
 marp: true
 ---
 
-# Recursion
+# adhoc & constructive
 소프트웨어학부 진민성
 
 ---
